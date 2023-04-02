@@ -8,7 +8,7 @@ Explore-ML
 <img src="https://img.shields.io/github/last-commit/DSC-IIT-GOA/Explore-ML" alt="Last Commit Badge"/>
 <img src="https://img.shields.io/github/commit-activity/w/DSC-IIT-GOA/Explore-ML" alt="Commit Activity Badge"/>
 <img src="https://img.shields.io/github/contributors/DSC-IIT-GOA/Explore-ML" alt="Contributors Badge"/>
-<a href="https://github.com/DSC-IIT-GOA/Explore-ML/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/srajan-kiyotaka/AI-ML-DL-Resource"></a>
+<a href="https://github.com/DSC-IIT-GOA/Explore-ML/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/DSC-IIT-GOA/Explore-ML"></a>
 <img src="https://img.shields.io/github/license/DSC-IIT-GOA/Explore-ML" alt="License Badge"/>
 
 <br>
